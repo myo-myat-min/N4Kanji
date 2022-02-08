@@ -1,6 +1,8 @@
 # N4Kanji
 [Kanji-N4.apk](https://drive.google.com/file/d/1wAc_nKDLUJVXbkQzNO8VmpPK-z6TysfF/view?usp=sharing)
 
+Gif photos used in this app are from www.nihongo-net.com
+
 1. **Main View**
 
 ![](/assets/Screenshots/IMG_20220207_151739.jpg)
